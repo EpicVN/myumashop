@@ -63,3 +63,6 @@ venv/
 ENV/
 env/
 scripts/*.sql
+
+# Custom local scripts
+scripts/
